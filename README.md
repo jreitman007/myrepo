@@ -1,1 +1,1 @@
-# myrepoA See Project1.md and Project2.md for analysis. 
+# See Project1.md and Project2.md for analysis. 
